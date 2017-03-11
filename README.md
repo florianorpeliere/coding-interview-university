@@ -386,6 +386,9 @@ Demonstrate comparaison sort lower bound
 - [Comparison sort](https://en.wikipedia.org/wiki/Comparison_sort)
 - [log(n!)](http://www.mcs.sdsmt.edu/ecorwin/cs372/handouts/theta_n_factorial.htm)
 - [Stirling's_approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
+- [Number of minimum comparisons](https://oeis.org/A036604)
+
+- [Complexity of fibo recursive](https://people.eecs.berkeley.edu/~vazirani/algorithms/chap0.pdf)
 
 ## Data Structures
 

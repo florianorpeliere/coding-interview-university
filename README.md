@@ -390,6 +390,13 @@ Demonstrate comparaison sort lower bound
 
 - [Complexity of fibo recursive](https://people.eecs.berkeley.edu/~vazirani/algorithms/chap0.pdf)
 
+## Maths
+
+- Category Theory
+- Ensemble Theory
+- Probability
+- Integer part
+
 ## Data Structures
 
 - ### Arrays

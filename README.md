@@ -1777,3 +1777,11 @@ Sit back and enjoy. "Netflix and skill" :P
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
+## Maths and logic
+
+- [Déduction logique (pour les théorèmes)](https://fr.wikipedia.org/wiki/D%C3%A9duction_logique)
+- [Calcul des propositions](https://fr.wikipedia.org/wiki/Calcul_des_propositions)
+- [Calcul des prédicats](https://fr.wikipedia.org/wiki/Calcul_des_pr%C3%A9dicats)
+- [Clause de Horn](https://fr.wikipedia.org/wiki/Clause_de_Horn)
+- [SAT](https://fr.wikipedia.org/wiki/Probl%C3%A8me_SAT)
+- [2SAT](https://en.wikipedia.org/wiki/2-satisfiability)

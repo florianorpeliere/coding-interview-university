@@ -116,7 +116,9 @@
 - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
+- [Solve puzzles](#solve-puzzles)
 - [Papers](#papers)
+- [Maths & Logic](#maths-and-logic)
 
 </details>
 
@@ -1977,6 +1979,13 @@ Sit back and enjoy. "Netflix and skill" :P
 - [ ] [2016: Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
 
 </details>
+
+## Solve puzzles
+
+- [Reddit dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
+- [Advent of code 2018](https://adventofcode.com/2018)
+- [Advent of code 2017](https://adventofcode.com/2017)
+- [Advent of code 2016](https://adventofcode.com/2016)
 
 ## Maths and logic
 
